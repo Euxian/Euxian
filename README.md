@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🍻 I’m currently Intern on Perumnas<br>🤝 I’m looking for help<br>🧑‍💻 I’m currently learning ReactJs <br>💬 Ask me about code<br>💯 Fun fact i like watching movie
+🤝 I’m looking for help<br>🧑‍💻 I’m currently learning ReactJs <br>💬 Ask me about code<br>💯 Fun fact i like watching movie
 
 
 ## 🌐 Socials:
