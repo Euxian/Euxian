@@ -5,7 +5,7 @@ Front-end Developer
 -------------------
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [My Website](http://https://portfolio-ian-iskandar.netlify.app)
+* 🖥️  See my portfolio at [My Website](https://portfolio-ian-iskandar.netlify.app)
 * 🧠  I'm learning Yolo and React
 * 🤝  I'm open to collaborating on interesting projects
 
